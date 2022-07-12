@@ -1,8 +1,8 @@
 batch_size: 64
 dev_ratio: 0.1
-embedding_dim: 100
-factor: 0.1
-learning_rate: 0.01
+embedding_dim: 200
+factor: 0.5
+learning_rate: 0.1
 max_epochs: 100
 model_directory: data/model/bipgclstm
 momentum: 0.9
